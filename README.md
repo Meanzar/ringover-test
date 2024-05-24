@@ -59,7 +59,7 @@ Sur une de mes missions je me suis occupé du debogage d'un jwt refresh ne fonct
 
 8. Quelle est la dernière chose que vous avez apprise récemment ? 
 
-google cloud platform est la dernière chose que j'ai appris récemment et c'est bien pratique 
+google cloud platform est la dernière chose que j'ai appris récemment et c'est bien pratique pour les test techniques et les pipelines ainsi que sa connexion direct avec github juste très couteux 
 
 9. Cette année, quelle techno aimeriez-vous apprendre et utiliser ?
 
