@@ -4,6 +4,8 @@ Romain DANIZEL
 
 Le code est dans le dossier API/todolist 
 
+Question : 
+
 1. Les variables existent en Javascript mais n’existent ni en HTML ni en CSS. Vrai ou Faux ? 
 
 Faux les variables n'existent pas en html ni en css, 
