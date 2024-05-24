@@ -1,3 +1,7 @@
+TEST TECHNIQUE
+
+Romain DANIZEL
+
 Le code est dans le dossier API/todolist 
 
 1. Les variables existent en Javascript mais n’existent ni en HTML ni en CSS. Vrai ou Faux ? 
